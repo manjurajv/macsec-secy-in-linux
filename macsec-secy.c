@@ -7,7 +7,7 @@
 
 	This was written by looking at dummy driver, vlan and the ieee802.11 implementations in linux kernel.
 
-	Initial Commit: Samsung Research India, Bangalore. 08th July 2015
+	Initial Commit:  08th July 2015
 */
 
 #include <linux/module.h>
